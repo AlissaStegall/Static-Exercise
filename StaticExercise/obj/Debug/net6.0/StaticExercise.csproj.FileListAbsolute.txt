@@ -1,0 +1,15 @@
+/Users/alissastegall/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise
+/Users/alissastegall/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.deps.json
+/Users/alissastegall/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.runtimeconfig.json
+/Users/alissastegall/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.dll
+/Users/alissastegall/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.pdb
+/Users/alissastegall/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.csproj.AssemblyReference.cache
+/Users/alissastegall/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alissastegall/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.AssemblyInfoInputs.cache
+/Users/alissastegall/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.AssemblyInfo.cs
+/Users/alissastegall/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.csproj.CoreCompileInputs.cache
+/Users/alissastegall/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.dll
+/Users/alissastegall/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/refint/StaticExercise.dll
+/Users/alissastegall/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.pdb
+/Users/alissastegall/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.genruntimeconfig.cache
+/Users/alissastegall/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/ref/StaticExercise.dll
